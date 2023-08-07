@@ -2,9 +2,8 @@
 
 Simple Message-Pack encoder/decoder
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/deterministic-arts/DartsCLMessagePack.git   |
-| commit  | 372263e  |
-| systems | DartsCLMessagePack |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------------------------------|
+| source  | git:https://github.com/deterministic-arts/DartsCLMessagePack.git |
+| commit  | 372263e                                                          |
+| systems | darts.lib.message-pack                                           |
+|---------+------------------------------------------------------------------|
